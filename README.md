@@ -23,6 +23,6 @@
 
 ## 🛠️ Habilidades & Tecnologias
 
-- **Linguagens:** Python, JavaScript, C, Php, 
+- **Linguagens:** Python, JavaScript, C, Php, html
 - **Frameworks:** React (iniciante), Flask  
 - **Ferramentas:** Git, VS Code, Trello  
